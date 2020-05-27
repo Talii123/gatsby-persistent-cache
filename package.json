@@ -1,0 +1,6 @@
+{
+  "name": "gatsby-persistent-cache",
+  "version": "0.0.1",
+  "main": "persistentCache.js",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+Because sometimes you don't want gatsby to delete your cache.
